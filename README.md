@@ -1,3 +1,5 @@
 # FBNet
-FBNet code for FGOC in aerial images
+FBNet for remote-sensing object classification
 # Requirement
+python == 3.6
+pytorch == 
