@@ -1,5 +1,6 @@
 # FBNet
-FBNet for remote-sensing object classification
+Dataset and code for the paper of "Feature Balance for Fine-Grained Object
+Classification in Aerial Images"
 # Requirement
 python == 3.6
 
@@ -9,12 +10,15 @@ Datasets: LFS, DOTA, FS23, HRSC2016
 
 链接：https://pan.baidu.com/s/1SVIBodi2pNdJ0PunvICshw 提取码：gvpd
 # Parameters
-parameters on four datasets
+Network parameters that are trained on four datasets
 
 链接：https://pan.baidu.com/s/1lc39WXxdAZ_27nJ43EAneg 提取码：diri
 # Test
-Dataset LFS use code
+If you test our network on dataset LFS, please use code for LFS
 
-Datasets DOTA,FS23,HRSC2016 use code1
+If you test our network on dataset DOTA,FS23,HRSC2016, please use code for DOTA,FS23,HRSC2016
 
 run test.py to test category accuracy or single image
+
+If our paper can bring you some help, please cite it: 
+
