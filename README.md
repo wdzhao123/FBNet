@@ -24,8 +24,7 @@ run test.py to test category accuracy or single image
 
 If our paper can bring you some help, please cite it: 
 
-···
-
+```
 @ARTICLE{9739789,
   author={Zhao, Wenda and Tong, Tingting and Yao, Libo and Liu, Yu and Xu, Congan and He, You and Lu, Huchuan},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
@@ -35,8 +34,7 @@ If our paper can bring you some help, please cite it:
   number={},
   pages={1-1},
   doi={10.1109/TGRS.2022.3161433}}
-  
-···
+```
 
 
 
