@@ -1,4 +1,0 @@
-1.加载分类模型和超分网络模型即可测试
-2.运行test.py
-3.得到Accuracy.txt每一行代表该类别所有图片的测试准确度
-注:code1适用数据集为FGSC,HRSC,DOTA
