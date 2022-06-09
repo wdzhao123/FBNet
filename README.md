@@ -8,11 +8,15 @@ pytorch == 1.4.0
 # Datasets
 Datasets: LFS, DOTA, FS23, HRSC2016
 
-链接：https://pan.baidu.com/s/1xiLdHd5L32a_ljqc2ZRyLg 提取码：85jz
+Baidu：https://pan.baidu.com/s/1xiLdHd5L32a_ljqc2ZRyLg 提取码：85jz
+
+Google Driver：https://drive.google.com/file/d/1uvwCHj_9BS8LF4G4YKQE2StIb1mLK-Dl/view?usp=sharing
 # Parameters
 Network parameters that are trained on four datasets
 
-链接：https://pan.baidu.com/s/1litPjPPRDY2nP5LC4Gta-Q 提取码：saip
+Baidu：https://pan.baidu.com/s/1litPjPPRDY2nP5LC4Gta-Q 提取码：saip
+
+Google Driver：https://drive.google.com/file/d/1psC5svyT4cj0Li3qPdUFz2OnaO9VeKxk/view?usp=sharing
 # Train
 Training the entire network can be divided into three steps：
 
